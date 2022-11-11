@@ -4232,21 +4232,3 @@
 	-o-animation-name: rollOut;
 	animation-name: rollOut;
 }
-
-@keyframes light {
-	0% {
-		box-shadow: 0 0 4px #f00;
-	}
-	25% {
-		box-shadow: 0 0 16px #0f0;
-	}
-	50% {
-		box-shadow: 0 0 4px #00f;
-	}
-	75% {
-		box-shadow: 0 0 16px #0f0;
-	}
-	100% {
-		box-shadow: 0 0 4px #f00;
-	}
-}
